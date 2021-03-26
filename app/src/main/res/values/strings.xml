@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KnowCourse</string>
+    <string name="package_name">com.example.knowcourseapp</string>
+    <string name="app_preferences">com.example.knowcourseapp.preferences_file</string>
+    <string name="token">token</string>
+    <string name="prerequisites">Pre-requisite(s)</string>
+    <string name="no_prerequisites">None</string>
+    <string name="reviews">Reviews</string>
+    <string name="write_review">Write Review</string>
+    <string name="author">Author: %s</string>
+    <string name="date_created">Date Posted: %s</string>
+    <string name="year_taken">Year Taken: %s</string>
+    <string name="rating">Rating: %s</string>
+    <string name="subclass">Subclass: %s</string>
+    <string name="professor">Professor: %s</string>
+    <string name="assessment">Assessment: %s</string>
+    <string name="grade">Grade: %s</string>
+    <string name="workload">Workload: %s</string>
+    <string name="review">Review: %s</string>
+    <string name="suggestion">Suggestions: %s</string>
+    <string name="app_label">KnowCourse</string>
+    <string name="search_hint">Search…</string>
+</resources>

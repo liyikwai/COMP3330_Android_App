@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="workload_values_array">
+        <item>Easy</item>
+        <item>Average</item>
+        <item>Above Average</item>
+        <item>Hell</item>
+    </string-array>
+</resources>
